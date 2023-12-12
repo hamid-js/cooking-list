@@ -11,7 +11,7 @@ export default function Form({ onAddItems }) {
     // console.log("submitHandler ~ lang:", lang);
     // if (lang ) alert("لطفا فقط از حروف فارسی استفاده کنید") ;
     // if (!lang)
-    if(e.target.value.length < 18)  
+    if(e.target.value.length < 15)  
     setDescription(e.target.value);
   else
   alert("به حداکثر کارکتر مجاز رسیده اید!")
