@@ -78,7 +78,7 @@ input {
 
   justify-content: space-between;
   flex-direction: column;
-  gap: 3.2rem;
+  gap: 3.4rem;
   align-items: center;
   font-weight: bold;
 }
@@ -98,7 +98,7 @@ input {
 
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 3.1rem;
+  gap: 6rem;
   justify-content: center;
   align-content: start;
 }
